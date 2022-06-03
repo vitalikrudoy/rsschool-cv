@@ -15,3 +15,38 @@ I am a quick learner, striving to get to know something new on a
 daily basis, improving skills by that. I can remain focused for long
 periods of time. Flexible by nature and can quickly adapt to
 changing situations.
+##Skils
+###Hard:
+>* UI/UX development 
+>* Responsive Design
+>* Adobe Photoshop
+>* Adobe Illustrator
+###Soft:
+>* I am a creative
+>* I am critical thinking
+>* I am a good at setting priorities
+>* I know how to work efficiently despite the panic around
+>* I'm persistent and attentive to details
+>* I am a good team player
+##Code Example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+##Experience
+> From 2013 till now JSC «Grodno Azot»
+Operator of benzene hydrogenation
+
+> 2021 online-school of web-design «Highlights School»
+UI/UX designer & visualizer
+Participated as an apprentice. Engineering the site design as part of
+the training. Also created the design of roll-up, booklets, etc.
+##Languages
+>* English: Pre-Intermediate
+>* Polish: Pre-Intermediate
+>* Belarusian: Native
+>* Russian: Native 
